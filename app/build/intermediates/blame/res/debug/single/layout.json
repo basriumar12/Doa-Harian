@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "E:\\data\\app android\\doa1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\menu.xml",
+        "source": "E:\\data\\app android\\doa1\\app\\src\\main\\res\\layout\\menu.xml"
+    },
+    {
+        "merged": "E:\\data\\app android\\doa1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\d1.xml",
+        "source": "E:\\data\\app android\\doa1\\app\\src\\main\\res\\layout\\d1.xml"
+    },
+    {
+        "merged": "E:\\data\\app android\\doa1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dd1.xml",
+        "source": "E:\\data\\app android\\doa1\\app\\src\\main\\res\\layout\\dd1.xml"
+    },
+    {
+        "merged": "E:\\data\\app android\\doa1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\menuquran.xml",
+        "source": "E:\\data\\app android\\doa1\\app\\src\\main\\res\\layout\\menuquran.xml"
+    },
+    {
+        "merged": "E:\\data\\app android\\doa1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\help.xml",
+        "source": "E:\\data\\app android\\doa1\\app\\src\\main\\res\\layout\\help.xml"
+    },
+    {
+        "merged": "E:\\data\\app android\\doa1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\awal.xml",
+        "source": "E:\\data\\app android\\doa1\\app\\src\\main\\res\\layout\\awal.xml"
+    },
+    {
+        "merged": "E:\\data\\app android\\doa1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\about.xml",
+        "source": "E:\\data\\app android\\doa1\\app\\src\\main\\res\\layout\\about.xml"
+    },
+    {
+        "merged": "E:\\data\\app android\\doa1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\menuhadis.xml",
+        "source": "E:\\data\\app android\\doa1\\app\\src\\main\\res\\layout\\menuhadis.xml"
+    }
+]

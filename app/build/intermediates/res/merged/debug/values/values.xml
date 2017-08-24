@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ABOUT"/>
+    <string name="d1"/>
+    <string name="d10"/>
+    <string name="d2"/>
+    <string name="d3"/>
+    <string name="d4"/>
+    <string name="d5"/>
+    <string name="d6"/>
+    <string name="d7"/>
+    <string name="d8"/>
+    <string name="d9"/>
+    <string name="dd1"/>
+    <string name="dd10"/>
+    <string name="dd2"/>
+    <string name="dd3"/>
+    <string name="dd4"/>
+    <string name="dd5"/>
+    <string name="dd6"/>
+    <string name="dd7"/>
+    <string name="dd8"/>
+    <string name="dd9"/>
+    <string name="help"/>
+    <string name="home"/>
+    <string name="home1">Doa Harian Islam</string>
+    <string name="menu"/>
+    <string name="menu_pan">Pan</string>
+    <string name="menu_reset">Reset</string>
+    <string name="menu_zoom">Zoom</string>
+    <string name="menuhadis"/>
+    <string name="menuquran"/>
+    <string name="zoom"/>
+</resources>
